@@ -30,15 +30,18 @@ with more granular customisation.
 ## Installation
 
 ```bash
-$ npm install react-native-background-task --save
+$ npm install Thanasis1101/react-native-background-task --save
 ```
+If this doesn't work, try the other suggestions from [this stackoverflow question](https://stackoverflow.com/questions/17509669/how-to-install-an-npm-package-from-github-directly).
   
 ### Android
 
-1. The linking of the library can be done automatically by running:
+1. The linking of the library is done automatically from react native version 0.60 and later.
+   
+   If your react native version is **lower than 0.60** link the library by running:
 
   ```bash
-  $ react-native link react-native-background-task
+  $ react-native link Thanasis1101/react-native-background-task
   ```
 
 2. One manual step is still needed - in your project file
