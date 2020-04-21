@@ -1,3 +1,8 @@
+# Fork's purpose
+
+This fork was made as a work-arround for [this issue](https://github.com/jamesisaac/react-native-background-task/issues/65),  following the suggestion [here](https://github.com/jamesisaac/react-native-background-task/issues/65#issuecomment-499794338). You can find the changes [here](https://github.com/Thanasis1101/react-native-background-task/commit/bf4a563c822967e25dfdc14ece6e97460ffe4edd).
+
+
 # react-native-background-task
 
 [![npm version](https://img.shields.io/npm/v/react-native-background-task.svg)](https://www.npmjs.com/package/react-native-background-task)
